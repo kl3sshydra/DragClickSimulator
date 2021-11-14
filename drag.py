@@ -1,3 +1,8 @@
+# DragClickSimulator
+# coded by kl3sshydra
+# please dont steal this code
+
+
 from pynput.mouse import Listener
 from datetime import datetime
 from threading import Thread
